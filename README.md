@@ -1,6 +1,5 @@
 # 📝 Taskline
 
-[![Taskline Logo](https://img.shields.io/badge/Taskline-To-Do_Manager-blue?style=for-the-badge)](https://github.com/matheusc457/taskline)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 [![Language](https://img.shields.io/badge/Language-C-00599C.svg)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)](https://github.com/matheusc457/taskline)
